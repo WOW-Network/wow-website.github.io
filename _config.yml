@@ -21,8 +21,8 @@ title                    : "A World model of Our World (WOW)"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 description              : "Website for Project WOW"
-url                      : "https://wow.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : " https://wow-network.github.io"
+baseurl                  : "/wow-website.github.io" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 #teaser                   : /assets/images/WOW-Teaser.jpg
 logo                     : "/assets/images/KIT_logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
