@@ -115,7 +115,7 @@ analytics:
 include:
   - .htaccess
   - _pages
-  - -posts
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
