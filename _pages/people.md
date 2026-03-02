@@ -107,7 +107,16 @@ layout: single
 
 ## PostDocs
 
-
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+  <img src="{{ '/assets/images/cnatel.jpg' | relative_url }}" 
+       alt="Dr. Carolina Natel" 
+       width="120" 
+       style="margin-right:12px;">
+  <div>
+    <strong>Dr. Carolina Natel</strong><br>
+    Email: carolina.moura@kit.edu
+  </div>
+</div>
 
 ## PhD Students
 
