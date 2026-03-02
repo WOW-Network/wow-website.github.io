@@ -13,3 +13,5 @@ group :jekyll_plugins do
     gem "jekyll-include-cache"
     gem "jekyll-archives"
 end
+
+gem "faraday-retry", "~> 2.4"
