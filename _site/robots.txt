@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/wow.github.io/sitemap.xml
+Sitemap: http://localhost:4000/wow-website.github.io/sitemap.xml

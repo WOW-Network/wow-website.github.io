@@ -51,17 +51,6 @@ layout: single
 </div>
 
 <div style="display:flex; align-items:flex-start; margin-bottom:20px;">
-  <img src="{{ '/assets/images/handersen.jpg' | relative_url }}" 
-       alt="Dr. rer. nat. Hendrik Andersen" 
-       width="120" 
-       style="margin-right:12px;">
-  <div>
-    <strong>Dr. rer. nat. Hendrik Andersen</strong><br>
-    Email: hendrik.andersen@kit.edu
-  </div>
-</div>
-
-<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
   <img src="{{ '/assets/images/jcermak.jpg' | relative_url }}" 
        alt="Prof. Dr. Jan Cermak" 
        width="120" 
@@ -105,6 +94,17 @@ layout: single
   </div>
 </div>
 
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+  <img src="{{ '/assets/images/rloritz.jpeg' | relative_url }}" 
+       alt="Dr. rer. nat. Ralf Loritz" 
+       width="120" 
+       style="margin-right:12px;">
+  <div>
+    <strong>Dr. rer. nat. Ralf Loritz</strong><br>
+    Email: ralf.loritz@kit.edu
+  </div>
+</div>
+
 ## PostDocs
 
 <div style="display:flex; align-items:flex-start; margin-bottom:20px;">
@@ -118,5 +118,81 @@ layout: single
   </div>
 </div>
 
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+  <img src="{{ '/assets/images/dc.jpeg' | relative_url }}" 
+       alt="Dr. rer. nat. Dwaipayan Chatterjee" 
+       width="120" 
+       style="margin-right:12px;">
+  <div>
+    <strong>Dr. rer. nat. Dwaipayan Chatterjee</strong><br>
+    Email: dwaipayan.chatterjee@kit.edu
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+  <img src="{{ '/assets/images/epauli.jpeg' | relative_url }}" 
+       alt="Dr. rer. nat. Eva Pauli" 
+       width="120" 
+       style="margin-right:12px;">
+  <div>
+    <strong>Dr. rer. nat. Eva Pauli</strong><br>
+    Email: eva.pauli@kit.edu
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+  <img src="{{ '/assets/images/handersen.jpg' | relative_url }}" 
+       alt="Dr. rer. nat. Hendrik Andersen" 
+       width="120" 
+       style="margin-right:12px;">
+  <div>
+    <strong>Dr. rer. nat. Hendrik Andersen</strong><br>
+    Email: hendrik.andersen@kit.edu
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+  <img src="{{ '/assets/images/bheudorfer.jpg' | relative_url }}" 
+       alt="Dr. Benedikt Heudorfer" 
+       width="120" 
+       style="margin-right:12px;">
+  <div>
+    <strong>Dr. Benedikt Heudorfer</strong><br>
+    Email: benedikt.heudorfer@kit.edu
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+  <img src="{{ '/assets/images/mmalicke.jpg' | relative_url }}" 
+       alt="Dr. Mirko Mälicke" 
+       width="120" 
+       style="margin-right:12px;">
+  <div>
+    <strong>Dr. Mirko Mälicke</strong><br>
+    Email: mirko.maelicke@kit.edu
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+  <img src="{{ '/assets/images/mamjadi.jpeg' | relative_url }}" 
+       alt="Dr. Mozhgan Amiramjadi" 
+       width="120" 
+       style="margin-right:12px;">
+  <div>
+    <strong>Dr. Mozhgan Amiramjadi</strong><br>
+    Email: mozhgan.amjadi@kit.edu
+  </div>
+</div>
+
 ## PhD Students
 
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+  <img src="{{ '/assets/images/opodsztavek.jpeg' | relative_url }}" 
+       alt="Ing. Ondřej Podsztavek" 
+       width="120" 
+       style="margin-right:12px;">
+  <div>
+    <strong>Ing. Ondřej Podsztavek</strong><br>
+    Email: ondrej.podsztavek@fit.cvut.cz
+  </div>
+</div>
