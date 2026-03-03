@@ -163,13 +163,13 @@ layout: single
 </div>
 
 <div style="display:flex; align-items:flex-start; margin-bottom:20px;">
-  <img src="{{ '/assets/images/mmalicke.jpg' | relative_url }}" 
-       alt="Dr. Mirko Mälicke" 
+  <img src="{{ '/assets/images/opodsztavek.jpeg' | relative_url }}" 
+       alt="Ing. Ondřej Podsztavek" 
        width="120" 
        style="margin-right:12px;">
   <div>
-    <strong>Dr. Mirko Mälicke</strong><br>
-    Email: mirko.maelicke@kit.edu
+    <strong>Ing. Ondřej Podsztavek</strong><br>
+    Email: ondrej.podsztavek@fit.cvut.cz
   </div>
 </div>
 
@@ -186,13 +186,3 @@ layout: single
 
 ## PhD Students
 
-<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
-  <img src="{{ '/assets/images/opodsztavek.jpeg' | relative_url }}" 
-       alt="Ing. Ondřej Podsztavek" 
-       width="120" 
-       style="margin-right:12px;">
-  <div>
-    <strong>Ing. Ondřej Podsztavek</strong><br>
-    Email: ondrej.podsztavek@fit.cvut.cz
-  </div>
-</div>
