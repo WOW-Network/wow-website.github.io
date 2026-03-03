@@ -168,7 +168,7 @@ layout: single
        width="120" 
        style="margin-right:12px;">
   <div>
-    <strong>Ing. Ondřej Podsztavek</strong><br>
+    <strong>Dr.-Ing. Ondřej Podsztavek</strong><br>
     Email: ondrej.podsztavek@fit.cvut.cz
   </div>
 </div>
