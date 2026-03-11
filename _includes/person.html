@@ -1,0 +1,12 @@
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+  <img src="{{ include.image | relative_url }}"
+       alt="{{ include.name }}"
+       width="120"
+       style="margin-right:12px;">
+
+  <div>
+    <strong>{{ include.name }}</strong><br>
+    Email: <a href="mailto:{{ include.email }}">{{ include.email }}</a>
+    <p>{{ include.description }}</p>
+  </div>
+</div>
