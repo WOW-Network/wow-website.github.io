@@ -115,7 +115,7 @@ layout: single
 
 {% include person.html
    name="Ing. Ondřej Podsztavek, PhD"
-   email="ondrej.podsztavek@fit.cvut.cz"
+   email="podsztavek@kit.edu"
    image="/assets/images/opodsztavek.jpeg"
    description=""
 %}
@@ -129,7 +129,7 @@ layout: single
 
 {% include person.html
    name="Dr. Wojciech Szkółka"
-   email="wojtek25495@gmail.com"
+   email="wojciech.szkolka@kit.edu"
    image="/assets/images/wszkółka.jpg"
    description=""
 %}
