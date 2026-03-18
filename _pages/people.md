@@ -1,7 +1,7 @@
 ---
 title: People
 permalink: /people/
-layout: single
+layout: splash
 ---
 
 ## Principal Investigators
@@ -10,56 +10,56 @@ layout: single
    name="TT-Prof. Dr. Peer Nowack"
    email="peer.nowack@kit.edu"
    image="/assets/images/pnowack.jpg"
-   description=""
+   description="Peer contributes to the WOW project with his interdisciplinary expertise in machine learning and climate science. As coordinator, he fosters collaboration across institutes and partners, supported by affiliations in both informatics and climate research. His work spans leading machine learning and environmental science venues, and he is actively involved in major climate informatics initiatives and conferences."
 %}
 
 {% include person.html
    name="Dr. Markus Götz"
    email="markus.goetz@kit.edu"
    image="/assets/images/mgoetz.jpg"
-   description=""
+   description="Markus contributes to the WOW project as an AI researcher with experience across fields including particle physics, biophysics, and Earth system science. He specializes in scalable and parallel AI algorithms, particularly for coupling complex models. His work also emphasizes sustainable, transparent research through energy-aware computing and a strong commitment to openness and FAIR principles."
 %}
 
 {% include person.html
    name="Dr. Charlotte Debus"
    email="charlotte.debus@kit.edu"
    image="/assets/images/cdebus.jpg"
-   description=""
+   description="Charlotte contributes to the WOW project with her expertise in AI models for scientific applications, particularly large-scale weather modeling. Her work focuses on scalable, energy-efficient model training and uncertainty quantification in neural networks. With a background in physics and a career spanning computer science and AI, she brings a strong interdisciplinary perspective at the interface of computational and natural sciences."
 %}
 
 {% include person.html
    name="Prof. Dr. Almut Arneth"
    email="almut.arneth@kit.edu"
    image="/assets/images/aarneth.jpg"
-   description=""
+   description="Almut is a leading expert in ecosystem modeling and contributes this core expertise to the WOW project. She is a highly distinguished scientist, recognized as a Highly Cited Researcher since 2019 and a member of both the Heidelberg Academy of Sciences and the European Academy of Sciences. Her work has been honored with major awards, including the Order of Merit of Baden-Württemberg and the Gottfried Wilhelm Leibniz Prize. She has played key leadership roles in major international assessments, serving as a lead author for IPBES and the IPCC, and has coordinated global research initiatives such as the Fire Model Intercomparison Project (FireMIP)."
 %}
 
 {% include person.html
    name="Prof. Dr. Jan Cermak"
    email="jan.cermak@kit.edu"
    image="/assets/images/jcermak.jpg"
-   description=""
+   description="Jan contributes to the WOW project with his extensive expertise in remote sensing, cloud systems, and machine learning. He has spent nearly two decades studying low-level clouds from a satellite perspective, with a focus on cloud-controlling factors including land–atmosphere interactions. His work has been recognized with the Kipp and Zonen Award, and he currently serves as President of the International Fog and Dew Association."
 %}
 
 {% include person.html
    name="Prof. Dr. Peter Knippertz"
    email="peter.knippertz@kit.edu"
    image="/assets/images/pknippertz.jpg"
-   description=""
+   description="Peter contributes to the WOW project with his expertise in atmospheric dynamics and weather forecasting, spanning tropical and extratropical meteorology and their interactions. His work combines observations, field campaigns, and advanced numerical and data-driven models. He has received major awards such as the DFG Emmy Noether and ERC Starting Grant and has played leading roles in large international research initiatives."
 %}
 
 {% include person.html
    name="Prof. Dr.-Ing. Erwin Zehe"
    email="Erwin.Zehe@kit.edu"
-   image="/assets/images/ezehe.jpg"
-   description=""
+   image="/assets/images/ezehe.png"
+   description="Erwin contributes to the WOW project with his extensive experience in hydrology and Earth system science, as well as scientific leadership and community service. He has served as Scientific Speaker of the KIT Centre Climate and Environment and as a long-standing editor of Hydrology and Earth System Sciences. He has supervised numerous early-career researchers and played key roles in organizing major international conferences and scientific sessions."
 %}
 
 {% include person.html
    name="Jun.-Prof. Jan Stühmer"
    email="jan.stuehmer@kit.edu"
    image="/assets/images/jstuhmer.jpg"
-   description=""
+   description="Jan contributes to the WOW project with his expertise in machine learning, focusing on structured inference, probabilistic deep learning, and interpretability. He completed his PhD with highest distinction at TU Munich and has received prestigious honors including a TUM IAS Doctoral Fellowship and the Oberwolfach Leibniz Graduate Student Award. His international experience includes research stays at Caltech and MIT CSAIL."
 %}
 
 {% include person.html
