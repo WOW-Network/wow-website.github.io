@@ -96,7 +96,7 @@ layout: splash
    name="Dr. rer. nat. Eva Pauli"
    email="eva.pauli@kit.edu"
    image="/assets/images/epauli.jpeg"
-   description=""
+   description="Eva Pauli is a Postdoctoral Researcher at the Karlsruhe Institute of Technology (KIT), working at the interface of meteorology and remote sensing. Her research focuses on fog and low clouds, their role in the climate system, and their interactions with the land surface. She uses remote sensing and reanalysis data together with machine learning—particularly explainable AI—to study complex land–atmosphere and land–cloud interactions to gain physical insight into the processes governing cloud formation and persistence. In the WOW project, she applies these approaches to investigate how cloud occurrence and characteristics may change in a drier future climate, with a focus on land–atmosphere feedbacks."
 %}
 
 {% include person.html
