@@ -66,7 +66,7 @@ layout: splash
    name="Dr. rer. nat. Ralf Loritz"
    email="ralf.loritz@kit.edu"
    image="/assets/images/rloritz.jpeg"
-   description=""
+   description="Ralf Loritz is a hydrologist specializing in data-driven and hybrid modeling approaches, with a particular focus on deep learning (DL) for large-sample hydrology. His research centers on developing and better understanding DL-based hydrological models that are increasingly used for applications ranging from drought monitoring to extreme flood forecasting. A key aspect of his work is the coupling of machine learning models with physical understanding to ensure robustness, interpretability, and transferability, particularly under changing climate conditions and in data-scarce environments. Within Project WOW, he contributes expertise in designing and evaluating downstream applications closely linked to hydrology, leveraging latent representations learned by world models to improve simulations of flooding in river systems and drought dynamics in soil moisture."
 %}
 
 ## PostDocs
@@ -115,7 +115,7 @@ layout: splash
 
 {% include person.html
    name="Ing. Ondřej Podsztavek, PhD"
-   email="podsztavek@kit.edu"
+   email="ondrej.podsztavek@kit.edu"
    image="/assets/images/opodsztavek.jpeg"
    description=""
 %}
