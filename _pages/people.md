@@ -131,7 +131,7 @@ layout: splash
    name="Dr. Wojciech Szkółka"
    email="wojciech.szkolka@kit.edu"
    image="/assets/images/wszkółka.jpg"
-   description=""
+   description="Wojciech is a postdoctoral researcher in atmospheric physics with a background in mathematics, physics, and geophysical fluid dynamics. He earned his PhD studying multiscale interactions in the tropical atmosphere using radar, satellite, and reanalysis data. His research focuses on atmospheric variability and extreme weather, combining multi-source observations with data-driven methods. In Project WOW, he evaluates and improves AI-based weather models, emphasizing extreme precipitation, convective systems, and links between large-scale atmospheric conditions and local high-impact weather."
 %}
 
 ## PhD Students
