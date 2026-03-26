@@ -117,7 +117,7 @@ layout: splash
    name="Ing. Ondřej Podsztavek, PhD"
    email="ondrej.podsztavek@kit.edu"
    image="/assets/images/opodsztavek.jpeg"
-   description=""
+   description="Ondřej is a postdoctoral researcher specializing in spatiotemporal modelling, uncertainty quantification, and scientific AI. His work focuses on developing robust and reliable models, including methods for diagnosing and correcting miscalibrated predictions, as well as time-series forecasting in complex real-world systems. His research combines statistical learning and deep learning approaches to address challenges in high-dimensional, structured data, with a particular interest in model reliability and interpretability. In the WOW project, he develops methods for joint latent representations, explainability, and data-driven climate model emulation."
 %}
 
 {% include person.html
