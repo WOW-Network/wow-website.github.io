@@ -110,7 +110,7 @@ layout: splash
    name="Dr. Benedikt Heudorfer"
    email="benedikt.heudorfer@kit.edu"
    image="/assets/images/bheudorfer.jpg"
-   description=""
+   description="Benedikt is a researcher at the Computational Hydrology group at KIT's Institute of Water and Environment. His research sits at the intersection of hydrology, hydrogeology and machine learning, with a focus on using deep learning models to predict groundwater levels and streamflow. He is interested in how these models generalize across sites, whether they can develop spatial awareness of catchment or aquifer characteristics, and how models are evaluated. A broader goal of his work is enabling predictions in ungauged or data-scarce regions, drawing on large benchmark datasets and global modeling approaches."
 %}
 
 {% include person.html
