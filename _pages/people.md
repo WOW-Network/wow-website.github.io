@@ -88,7 +88,7 @@ layout: splash
 {% include person.html
    name="Dr. rer. nat. Dwaipayan Chatterjee"
    email="dwaipayan.chatterjee@kit.edu"
-   image="/assets/images/dc.jpeg"
+   image="/assets/images/dc.png"
    description="Dwaipayan is a scientist at the Karlsruhe Institute of Technology (KIT), where his research focuses on the intersection of artificial intelligence and Earth system science. In parallel, he serves as the Scientific Coordinator for the ECMWF Machine Learning Training Program under the DestinE initiative, leading the development of international training initiatives on AI for Earth system modeling. His broader research interests involve developing physically consistent and interpretable AI models for atmospheric science, with a particular focus on multiscale dynamics, representation learning, and generative modeling from satellite observations and km-scale numerical models. His work aims to bridge the gap between high predictive skill and scientific understanding, enabling reliable use of AI models for both weather forecasting and long-term climate applications. "
 %}
 
