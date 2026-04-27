@@ -82,7 +82,7 @@ layout: splash
    name="Dr. Carolina Natel"
    email="carolina.moura@kit.edu"
    image="/assets/images/cnatel.jpg"
-   description=""
+   description="Carolina is a postdoctoral researcher with a background in environmental sciences, based at KIT-Campus Alpin in Garmisch-Partenkirchen. Her research focuses on understanding and modelling the interactions between climate, land use change and management, and ecosystem functioning, with an emphasis on forest disturbances, such as wildfires, and forest carbon dynamics. She develops and applies both process-based and machine learning models. Within WOW, she is responsible for developing a deep learning–based wildfire model aimed at improving the prediction of extreme fire events and exploring the links between wildfires and other environmental processes represented in the world model."
 %}
 
 {% include person.html
