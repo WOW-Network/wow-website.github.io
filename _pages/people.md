@@ -140,6 +140,6 @@ layout: splash
    name="Lukas Gnad"
    email="lukas.gnad@kit.edu"
    image="/assets/images/lgnad.jpeg"
-   description=""
+   description="Lukas earned both his Bachelor’s and Master’s degrees in Computer Science from the Karlsruhe Institute of Technology (KIT). During his Master’s studies, he specialized in machine learning for weather and climate applications, complementing his work with coursework in meteorology. His thesis explored the robustness of graph-based machine learning models for weather forecasting under future climate conditions, focusing on their ability to generalize beyond their training data. He now continues his research at the intersection of machine learning and climate science as part of the WOW Project."
 %}
 
