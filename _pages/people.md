@@ -86,24 +86,10 @@ layout: splash
 %}
 
 {% include person.html
-   name="Dr. rer. nat. Dwaipayan Chatterjee"
-   email="dwaipayan.chatterjee@kit.edu"
-   image="/assets/images/dc.png"
-   description="Dwaipayan is a scientist at the Karlsruhe Institute of Technology (KIT), where his research focuses on the intersection of artificial intelligence and Earth system science. In parallel, he serves as the Scientific Coordinator for the ECMWF Machine Learning Training Program under the DestinE initiative, leading the development of international training initiatives on AI for Earth system modeling. His broader research interests involve developing physically consistent and interpretable AI models for atmospheric science, with a particular focus on multiscale dynamics, representation learning, and generative modeling from satellite observations and km-scale numerical models. His work aims to bridge the gap between high predictive skill and scientific understanding, enabling reliable use of AI models for both weather forecasting and long-term climate applications. "
-%}
-
-{% include person.html
    name="Dr. rer. nat. Eva Pauli"
    email="eva.pauli@kit.edu"
    image="/assets/images/epauli.jpeg"
    description="Eva Pauli is a Postdoctoral Researcher at the Karlsruhe Institute of Technology (KIT), working at the interface of meteorology and remote sensing. Her research focuses on fog and low clouds, their role in the climate system, and their interactions with the land surface. She uses remote sensing and reanalysis data together with machine learning—particularly explainable AI—to study complex land–atmosphere and land–cloud interactions to gain physical insight into the processes governing cloud formation and persistence. In the WOW project, she applies these approaches to investigate how cloud occurrence and characteristics may change in a drier future climate, with a focus on land–atmosphere feedbacks."
-%}
-
-{% include person.html
-   name="Dr. rer. nat. Hendrik Andersen"
-   email="hendrik.andersen@kit.edu"
-   image="/assets/images/handersen.jpg"
-   description=""
 %}
 
 {% include person.html
@@ -118,13 +104,6 @@ layout: splash
    email="ondrej.podsztavek@kit.edu"
    image="/assets/images/opodsztavek.jpeg"
    description="Ondřej is a postdoctoral researcher specializing in spatiotemporal modelling, uncertainty quantification, and scientific AI. His work focuses on developing robust and reliable models, including methods for diagnosing and correcting miscalibrated predictions, as well as time-series forecasting in complex real-world systems. His research combines statistical learning and deep learning approaches to address challenges in high-dimensional, structured data, with a particular interest in model reliability and interpretability. In the WOW project, he develops methods for joint latent representations, explainability, and data-driven climate model emulation."
-%}
-
-{% include person.html
-   name="Dr. Mozhgan Amiramjadi"
-   email="mozhgan.amjadi@kit.edu"
-   image="/assets/images/mamjadi.jpeg"
-   description=""
 %}
 
 {% include person.html
