@@ -75,7 +75,7 @@ layout: splash
    name="Dr. Mishal Benz"
    email="mishal.benz@kit.edu"
    image="/assets/images/mbenz.jpg"
-   description=""
+   description="Mishal is a postdoctoral researcher with a background in electrical engineering, specializing in machine learning and natural language processing. At the Karlsruhe Institute of Technology (KIT), she has been part of the Smart Data Innovation Lab, where she supported small and medium-sized enterprises (SMEs) in adopting artificial intelligence technologies within their organizations. In addition, she serves as a Helmholtz AI Consultant, providing guidance and support to scientists working on energy-related research projects. Within the WOW Project, Mishal will contribute as a Scientific Manager, with a particular focus on outreach and engagement activities."
 %}
 
 {% include person.html
@@ -110,7 +110,8 @@ layout: splash
    name="Dr. Wojciech Szkółka"
    email="wojciech.szkolka@kit.edu"
    image="/assets/images/wszkółka.jpg"
-   description="Wojciech is a postdoctoral researcher in atmospheric physics with a background in mathematics, physics, and geophysical fluid dynamics. He earned his PhD studying multiscale interactions in the tropical atmosphere using radar, satellite, and reanalysis data. His research focuses on atmospheric variability and extreme weather, combining multi-source observations with data-driven methods. In Project WOW, he evaluates and improves AI-based weather models, emphasizing extreme precipitation, convective systems, and links between large-scale atmospheric conditions and local high-impact weather."
+   description="Wojciech is
+    a postdoctoral researcher in atmospheric physics with a background in mathematics, physics, and geophysical fluid dynamics. He earned his PhD studying multiscale interactions in the tropical atmosphere using radar, satellite, and reanalysis data. His research focuses on atmospheric variability and extreme weather, combining multi-source observations with data-driven methods. In Project WOW, he evaluates and improves AI-based weather models, emphasizing extreme precipitation, convective systems, and links between large-scale atmospheric conditions and local high-impact weather."
 %}
 
 ## PhD Students
